@@ -1,10 +1,5 @@
 # Student Performance Analyzer
 
-A Data Analytics and Rule-Based Prediction System, built for **Digital Technology (25B11CA114)**, BCA Semester 1, JIIT Noida (ODD 2026).
-
-**Team:** Prateek Sharma (BCG26266) · Shourya Joshi (BCG26297) · Saransh Chamoli (BCG26332) · Skand Chaudhary (BCG26140)
-**Submitted to:** Mr. Aakash Goyal
-
 ## What it does
 
 - Stores student records, subject-wise marks, attendance and assignment scores (SQLite)
