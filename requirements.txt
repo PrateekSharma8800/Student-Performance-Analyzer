@@ -1,0 +1,11 @@
+# Libraries this project needs. Install them with:
+#   pip install -r requirements.txt
+# (sqlite3 is built into Python, so it is not listed here.)
+
+streamlit>=1.40        # Web interface (dashboard, forms, buttons)
+pandas>=2.2.3          # Data processing and calculations
+matplotlib>=3.9        # Charts
+fpdf2>=2.8             # PDF report generation
+openpyxl>=3.1          # Excel (.xlsx) export, used by pandas
+scikit-learn>=1.6      # Optional Decision Tree classifier (Phase 7b)
+pytest>=8.0            # Automated testing (Phase 9)

@@ -1,0 +1,16 @@
+# Virtual environment (each person creates their own)
+.venv/
+
+# Python cache files (created automatically)
+__pycache__/
+*.pyc
+
+# The database file is created at runtime and can be rebuilt with sample data
+data/*.db
+
+# Test cache
+.pytest_cache/
+
+# macOS and editor files
+.DS_Store
+.vscode/
